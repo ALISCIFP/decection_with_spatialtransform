@@ -1,0 +1,11 @@
+TO run the code, first download test_batchs training_batches validation_batches from affinenist
+Then run convert_data.py
+make_data.py makes data that concatenates four images
+make_data_2.py makes data that concatenates two images
+
+fcnn_onesp_small has 20 neurals for localisation net
+fcnn_onesp.py has 200 neurals for localisation net
+
+fcnn_fourchannel.py do the 4 image add task
+
+
